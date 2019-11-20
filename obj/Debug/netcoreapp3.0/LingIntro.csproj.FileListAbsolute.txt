@@ -1,0 +1,11 @@
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.exe
+C:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.deps.json
+C:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.runtimeconfig.json
+C:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.runtimeconfig.dev.json
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.dll
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\bin\Debug\netcoreapp3.0\LingIntro.pdb
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\obj\Debug\netcoreapp3.0\LingIntro.csprojAssemblyReference.cache
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\obj\Debug\netcoreapp3.0\LingIntro.AssemblyInfoInputs.cache
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\obj\Debug\netcoreapp3.0\LingIntro.AssemblyInfo.cs
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\obj\Debug\netcoreapp3.0\LingIntro.dll
+c:\Users\NSS31\workspace\csharp\exercises\LingIntro\obj\Debug\netcoreapp3.0\LingIntro.pdb
